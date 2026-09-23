@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="40 36 590 258" width="590" height="258">
+<defs>
+  <linearGradient id="up" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f7f6f2"/><stop offset="1" stop-color="#d9d7cf"/>
+  </linearGradient>
+  <pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse">
+    <circle cx="4.5" cy="4.5" r="1.7" fill="#5f5e58" opacity=".75"/>
+  </pattern>
+  <pattern id="rope" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(-24)">
+    <rect width="14" height="14" fill="#cdb88c"/>
+    <path d="M 0 3 H 14 M 0 10 H 14" stroke="#9a8558" stroke-width="2.2" opacity=".7"/>
+  </pattern>
+</defs>
+<g transform="translate(0,254)">
+<clipPath id="c-arte-antwerp-adidas-f50"><path d="M 80,0.0 C 70,-46.1 72,-107.5 88,-148.5 C 98,-166.4 118,-169.0 138,-158.7 C 166,-143.4 190,-128.0 214,-128.0 C 252,-128.0 274,-122.9 300,-110.1 C 360,-84.5 430,-74.2 500,-58.9 C 548,-48.6 574,-33.3 606,-7.7 L 606,0.0 Z"/></clipPath>
+<path d="M 80,0.0 C 70,-46.1 72,-107.5 88,-148.5 C 98,-166.4 118,-169.0 138,-158.7 C 166,-143.4 190,-128.0 214,-128.0 C 252,-128.0 274,-122.9 300,-110.1 C 360,-84.5 430,-74.2 500,-58.9 C 548,-48.6 574,-33.3 606,-7.7 L 606,0.0 Z" fill="#bcbab2" stroke="#0d0d0d" stroke-width="2.2" stroke-linejoin="round"/>
+<g clip-path="url(#c-arte-antwerp-adidas-f50)"><path d="M 84,-128.0 C 88,-143.4 92,-156.2 100,-163.8 C 110,-171.5 124,-169.0 138,-158.7 C 166,-143.4 190,-128.0 214,-128.0 L 214,-107.5 C 190,-107.5 166,-122.9 138,-138.2 C 122,-148.5 104,-145.9 84,-128.0 Z" fill="#7a786f"/>
+<line x1="347.3" y1="-82.4" x2="295.3" y2="-3" stroke="#141414" stroke-width="9.5"/>
+<line x1="384.3" y1="-72.3" x2="332.3" y2="-3" stroke="#141414" stroke-width="9.5"/>
+<line x1="425.4" y1="-62.1" x2="373.4" y2="-3" stroke="#141414" stroke-width="9.5"/></g>
+<path d="M 138,-156.2 C 166,-140.8 190,-126.7 214,-126.7 C 196,-107.5 160,-112.6 138,-133.1 Z" fill="#1b1b1b"/>
+<path d="M 84,-3 L 586,-3" stroke="#0d0d0d" stroke-width="1.2" opacity=".35" fill="none"/>
+<path d="M 68,0 L 596,0 C 606,1.7999999999999998 604,5.1 592,6 L 74,6 C 62,6 60,2.4000000000000004 68,0 Z" fill="#d8d6ce" stroke="#0d0d0d" stroke-width="2.2" stroke-linejoin="round"/>
+<path d="M 72,6 L 592,6 L 588,16 L 78,16 Z" fill="#242424" stroke="#0d0d0d" stroke-width="2" stroke-linejoin="round"/>
+<path d="M 123,16 L 141,16 L 136,31 L 128,31 Z" fill="#2b2b2b" stroke="#0d0d0d" stroke-width="1.5"/>
+<path d="M 197,16 L 215,16 L 210,31 L 202,31 Z" fill="#2b2b2b" stroke="#0d0d0d" stroke-width="1.5"/>
+<path d="M 411,16 L 429,16 L 424,31 L 416,31 Z" fill="#2b2b2b" stroke="#0d0d0d" stroke-width="1.5"/>
+<path d="M 487,16 L 505,16 L 500,31 L 492,31 Z" fill="#2b2b2b" stroke="#0d0d0d" stroke-width="1.5"/>
+<path d="M 537,16 L 555,16 L 550,29 L 542,29 Z" fill="#2b2b2b" stroke="#0d0d0d" stroke-width="1.5"/>
+</g>
+</svg>
